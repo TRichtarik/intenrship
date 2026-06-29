@@ -1,0 +1,128 @@
+\documentclass[12pt,a4paper]{article}
+
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[slovak]{babel}
+\usepackage{geometry}
+\usepackage{setspace}
+\usepackage{hyperref}
+\usepackage{enumitem}
+
+\geometry{left=2.5cm, right=2.5cm, top=2.5cm, bottom=2.5cm}
+\onehalfspacing
+\hypersetup{colorlinks=true, linkcolor=black, urlcolor=blue}
+
+\begin{document}
+
+\begin{center}
+    {\LARGE\bfseries INTERIM REPORT}\\[0.6cm]
+    {\large Tomáš Richtárik \quad UČO: 514392}\\[0.2cm]
+    symetra s. r. o., Zvolen\\[0.2cm]
+    Prax: 30.\,3.\,2026 až 30.\,9.\,2026 \quad|\quad Spracované: 28.\,6.\,2026
+\end{center}
+\vspace{0.5cm}
+
+\section{Predstavenie}
+
+\subsection{Firma}
+
+Stáž vykonávam v symetra s. r. o., softvérovej firme so sídlom v Zvolene, ktorá sa špecializuje na implementáciu a rozvoj ERP systému Odoo pre slovenské a české podniky. Symetra je Odoo Silver partner; okrem štandardných implementácií ponúka slovenskú lokalizáciu účtovníctva a vlastné e-commerce riešenie postavené nad Odoo.
+
+Firma má približne 14 zamestnancov, za posledné roky realizovala viac ako 40 implementácií ERP a v čase mojej praxe beží naraz viac než desať klientskych projektov. Hoci značka vznikla v roku 2021, odborný tím vychádza z dlhoročných skúseností s podnikovými informačnými systémami. Medzi referencie patrí napríklad kompletná implementácia Odoo ERP v spoločnosti Ekobal vrátane lokalizovaného účtovníctva. Medzi hlavné služby patrí agilná implementácia Odoo, konzultácie, vývoj webových aplikácií, API integrácie a dlhodobá podpora.
+
+Organizačná štruktúra: CEO Martin Bačo, sales director Igor Kočiš, COO Etela Kočišová, CTO Ing. Peter Krššák, PhD., garant mojej praxe, project manager Peter Kajúch. V tíme ďalej pôsobia business konzultanti a samostatný tím developerov. Pracujem formou home office; komunikácia prebieha cez Google Chat, online meetingy a interné nástroje v Odoo vrátane Gantt View Pro.
+
+\subsection{Pozícia}
+
+Moja pozícia je v praxi hybridná, na pomedzí projektového manažmentu a technickej implementácie. Práve to ma zaujalo: chcel som vidieť riadenie softvérových projektov v kontexte reálneho ERP vývoja, nie oddelene od neho.
+
+So symetrou som spolupracoval ešte pred oficiálnym nástupom na stáž, keď som na odporúčanie známej absolvoval pohovor s garantom praxe a postupne sa zapojil do menších úloh. Vďaka tomu som sa ešte pred začiatkom stáže oboznámil s prostredím firmy a spôsobom práce v tíme. Po upresnení očakávaní a rozsahu stáže nasledovalo spísanie dohody o stáži a protokolu o prijatí. Zavedenie bolo praktické: prístupy do interných systémov, Odoo inštancií, repozitárov a zaradenie do bežiacich projektov. Prvé týždne som sa orientoval v tom, ako firma rozdeľuje interný vývoj a klientsku prácu, a kto je kontaktná osoba pri jednotlivých oblastiach.
+
+\section{Tím}
+
+\textbf{Ing. Peter Krššák, PhD., CTO a garant praxe:} odborné vedenie, technické rozhodnutia, migrácie modulov a architektúra riešení. \textbf{Peter Kajúch, Project Manager:} priraďuje úlohy, riešime priority, odhady náročnosti a stav projektov. \textbf{Martin Bačo, CEO:} zastrešuje strategické smerovanie firmy a rozhodovanie o prioritách projektov.
+
+\subsection{Business konzultanti}
+
+\textbf{Martin Klepáč:} konzultant zameraný na analýzu procesov klientov a konfiguráciu Odoo; pri internom e-commerce produkte pomáha s návrhom funkčností a koordináciou požiadaviek. \textbf{Jozef Petluš:} konzultant pre výrobné a priemyselné projekty; rieši analýzu požiadaviek a implementáciu modulov pri zákazníkoch so skladovými a výrobnými procesmi. \textbf{Jakub Jusko:} konzultant pre klientske implementácie; rieši prepojenia modulov a technické požiadavky klientov.
+
+\subsection{Tím developerov}
+
+Tím developerov sa zameriava na vývoj a údržbu Odoo modulov v Pythone, frontendovej vrstve e-commerce riešenia a interných knižníc firmy. Developeri implementujú technické riešenia pre klientske projekty aj interné produkty, riešia integrácie a podieľajú sa na nasadení do dev a produkčných prostredí. S tímom developerov koordinujem technické detaily, testovanie a priebeh implementácie; celkový technický smer dohliada garant praxe.
+
+Moja rola sa líši podľa projektu. Pri internom e-commerce riešení spolupracujem najmä s konzultantmi a tímom developerov na koordinácii a analýze; pri klientskych projektoch s príslušným konzultantom a developerom podľa zamerania projektu. Zapájam sa do plánovania, prípravy podkladov, odhadov, vývoja, testovania a koordinácie deployov. Zodpovedám za dokončenie úloh alebo včasnú eskaláciu, ak presahujú moje skúsenosti.
+
+Tím komunikuje pravidelne cez krátke denné meetingy a ad hoc calle podľa potreby projektu.
+
+\section{Ciele a očekávania}
+
+So garantom praxe sme stanovili ciele: oboznámenie sa s implementáciou Odoo v praxi, skúsenosti s projektovým manažmentom, plánovaním, koordináciou a komunikáciou, práca s Gantt View Pro a timesheetmi, analýza požiadaviek klientov a základné technické zručnosti v Odoo vrátane testovania.
+
+Pôvodný plán počítal s 50\,\% PM, 30\,\% analýzou, 10\,\% testovaním a 10\,\% vývojom. Po 200 odpracovaných hodinách je rozdelenie iné: koordinácia 42\,\%, analýza 28\,\%, vývoj 20\,\%, testovanie 11\,\%. Technická zložka prevýšila odhad kvôli zaradeniu do rozvoja interného e-commerce produktu. Garant s tým súhlasil, lebo pre riadenie softvérových projektov je užitočné rozumieť aj implementácii.
+
+Na začiatku som očakával skôr pozorovanie PM práce: plánovanie, Gantt diagramy, komunikácia s klientmi. Čiastočne sa to naplnilo, ale práca je dynamickejšia: úlohy prichádzajú z viacerých projektov naraz a často treba rýchlo prepnúť z analýzy požiadaviek na riešenie aktuálneho ticketu alebo koordináciu nasadenia.
+
+Prekvapilo ma, koľko času zaberie príprava prostredí. Tieto veci som v škole riešil skôr teoreticky; teraz vidím, že bez funkčného dev prostredia sa ani dobrá analýza nedá overiť. Potešilo ma, že tím dôveruje s konkrétnymi úlohami od prvých týždňov.
+
+\section{Popis práce}
+
+\subsection{Projekty a kontext}
+
+Práca sa delí na interný produktový vývoj a klientske projekty. Obe vetvy sú prepojené: moduly vyvinuté pre interný e-commerce sa neskôr nasadzujú aj u klientov a skúsenosti z klientskych implementácií sa vracajú späť do spoločných knižníc firmy.
+
+\textbf{Interný e-commerce produkt:} moja hlavná doména: analýza dopravcov a ich možností, komunikácia v tíme, vybavovanie prostredia a príprava podkladov, čiastková implementácia, testovanie a integrácia flowov, zbieranie požiadaviek od konzultantov. Produkt je pre firmu strategicky dôležitý, lebo ho ponúkajú klientom ako hotové riešenie nad Odoo. \textbf{Klientske projekty:} implementácie a úpravy Odoo pre rôznych zákazníkov firmy, od analýzy požiadaviek cez koordináciu až po testovanie a nasadenie. \textbf{Interný vývoj:} migrácia firemných modulov na Odoo 19 EE a údržba spoločných knižníc.
+
+Technológie, s ktorými pracujem: Odoo, Python, XML, QWeb, JavaScript/TypeScript pre e-commerce frontend, Git a GitHub Actions pre CI/CD, Docker a Portainer pre nasadenie, Google Chat pre komunikáciu, Gantt View Pro pre plánovanie. Pri integráciách dopravcov pracujem s REST API jednotlivých kuriérskych služieb a s internými modulmi firmy.
+
+\subsection{Pracovný deň a hodiny}
+
+Typický deň: ráno Google Chat a kontrola urgentných ticketov, potom prioritná úloha, popoludní synchronizačné hovory, večer zápis do timesheetu. Pracujem z domu, väčšinou od 9:00 do 17:00, občas aj večer pri deployoch alebo keď treba stihnúť integráciu pred callom nasledujúci deň.
+
+K 28.\,6.\,2026 som odpracoval \textbf{200 h z min. 400}. Rozdelenie podľa typu činností:
+
+\begin{center}
+\small
+\begin{tabular}{|l|r|r|}
+    \hline
+    Koordinácia, call-y, plánovanie, deploy & cca 84\,h & 42\,\% \\
+    Analýza požiadaviek, odhady, dokumentácia & cca 56\,h & 28\,\% \\
+    Technický vývoj & cca 40\,h & 20\,\% \\
+    Testovanie a kontrola funkčnosti & cca 20\,h & 10\,\% \\
+    \hline
+    \textbf{Celkom} & \textbf{200\,h} & \textbf{100\,\%} \\
+    \hline
+\end{tabular}
+\end{center}
+
+\noindent Podľa projektov najviac času zabral interný e-commerce, zvyšok približne rovnomerne klientske projekty rôzneho rozsahu a interný vývoj.
+
+\subsection{Výsledky, termíny a plán}
+
+Dosiahnuté výsledky: analýza možností integrácie dopravcov a príprava podkladov pre interný e-commerce; projektová dokumentácia vrátane demo materiálov; analýzy externých API s odhadmi pre obchodné oddelenie; zbieranie a spracovanie požiadaviek od konzultantov; čiastková implementácia, testovanie a koordinácia nasadenia; podpora pri klientskych implementáciách a migráciách modulov v rámci interného vývoja.
+
+Dôležité termíny: nástup 30.\,3.; v apríli zaradenie do interného e-commerce a prvých klientskych projektov; v máji pokračovanie analytických a implementačných úloh, SLA podpora a migrácie na novšie verzie Odoo; v júni integrácie dopravcov a plnenie klientskych termínov; od júla do septembra dokončenie rozpracovaných úloh a ďalšia projektová podpora.
+
+Plán do konca praxe: dotiahnuť prebiehajúce úlohy v internom e-commerce vrátane testovania na čistej databáze; finalizovať rozpracované integrácie; viac PM úloh, najmä odhady, plánovanie v Gantt View Pro a príprava podkladov pre klientov; pokračovať v podpore klientskych projektov podľa priorít firmy.
+
+\textbf{Pracovné ciele:} dokončiť prebiehajúce integrácie v internom e-commerce, stabilizovať produkt, zlepšiť dokumentáciu tak, aby ju vedel použiť ďalší člen tímu. \textbf{Osobné ciele:} lepšie odhadovať časové nároky, plynulejšie komunikovať technické obmedzenia a získať istotu pri samostatnom deployi na dev.
+
+\section{Skúsenosti a znalosti}
+
+Počas praxe som si v praxi overil, ako vyzerá riadenie projektov v IT firme, kde sa naraz rieši viac klientskych požiadaviek aj interný produktový vývoj. Naučil som sa sledovať stav úloh, komunikovať s konzultantmi a developer-mi a prepájať požiadavky z analýzy s tým, čo tím následne implementuje. Vďaka timesheetu vidím lepšie, koľko času jednotlivé typy činností reálne zaberajú, čo mi pomáha pri ďalších odhadoch.
+
+V oblasti projektového riadenia som sa zlepšil najmä v príprave podkladov pred meetingmi, v zbere požiadaviek od konzultantov a v koordinácii menších úloh medzi členmi tímu. Naučil som sa pripravovať dokumentáciu tak, aby bola zrozumiteľná aj pre niekoho, kto do projektu vstupuje neskôr. Pri analýzach som pochopil, že úloha, ktorá na papieri vyzerá na dve hodiny, môže trvať výrazne dlhšie, ak treba overiť viac variantov riešenia a dohodnúť postup s tímom. Koordinoval som aj nasadenie na testovacie a produkčné prostredia, pričom som sledoval, či sú splnené predpoklady pred samotným deployom.
+
+Technicky som sa oboznámil s prostredím Odoo a s tým, ako prebieha migrácia medzi verziami, príprava integrácií a testovanie flowov. Tieto skúsenosti vnímam skôr ako nutný základ pre projektovú prácu, lebo bez pochopenia implementácie je ťažko posúdiť náročnosť úlohy alebo včas identifikovať riziko oneskorenia.
+
+Zlepšil som sa v samostatnej príprave pred callom, viem skôr sám identifikovať, aké informácie potrebujem, a pripraviť otázky pre konzultantov alebo developera. Lepšie dokážem rozdeliť väčšiu požiadavku na menšie kroky a sledovať, čo už je hotové a čo ešte chýba do odovzdania.
+
+Chyby, ktorých sa chcem vyvarovať: pustiť sa do riešenia skôr, než si overím business pravidlo u klienta alebo u kolegu z tímu; nechať nasadenie bez dostatočného testu na dev prostredí. Odvtedy si pred ďalšou prácou overujem očakávaný výsledok s konzultantom a pred produkciou prejdem krátky checklist so zodpovedným členom tímu.
+
+Do septembra chcem viesť menší projektový stream od analýzy po odovzdanie, aktívnejšie sa zapájať do plánovania v Gantt View Pro a pripravovať podklady pre obchodné aj technické rozhodnutia. Na calloch so zákazníkmi sa zatiaľ zúčastňujem skôr interných rokovaní, do konca praxe by som chcel prebrať viac koordinačnej zodpovednosti pri komunikácii s klientom.
+
+Prvá polovica stáže mi ukázala, že projektový manažment tu nie je oddelený od vývoja, každý v tíme občas rieši aj technické úlohy. Tento model mi vyhovuje, lebo vidím súvislosti medzi rozhodnutím na calle a tým, koľko práce stojí implementácia. V druhej polovici chcem viac vyvážiť plánovanie a koordináciu, aby som pripravil pôdu pre záverečnú správu.
+
+\vspace{1.5cm}
+\noindent V Brne dňa 28.\,6.\,2026 \hfill Tomáš Richtárik
+
+\end{document}

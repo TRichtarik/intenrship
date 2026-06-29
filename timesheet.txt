@@ -1,0 +1,385 @@
+
+My Timesheets
+Date: April 2026/May 2026/June 2026
+Search...
+1-214 / 214
+Press Enter or click on  to launch the timer
+Press Shift and click on  to add 1 min
+
+Jun 26	[I] Ecommerce	
+Verzia 1.3	Check gopay, update gopay 1.3 docs, check, check assests to s3 on clean db, brand on endpoint check, error message check backend, update on frontend on multiple places	02:30	Jun 27, 1:08 PM	Jun 27, 1:11 PM	
+Jun 26	[I] Ecommerce	
+/	00:00	Jun 26, 6:47 PM	Jun 26, 6:47 PM	
+Jun 26	[I] Ecommerce	
+/	00:00	Jun 26, 6:47 PM	Jun 26, 6:47 PM	
+Jun 26	[R] DODO Services	
+DoDo - DFS1 Checkbox Pravo k platbam	debug from josef and effino on some reports and vies validation	00:15	Jun 26, 6:46 PM	Jun 26, 6:46 PM	
+Jun 26	[I] Ecommerce	
+Integracia SPS SK	inowis style extraction of label generation, creation, auto print, multi step stock, test 1.2 move 1.3	04:00	Jun 26, 6:35 PM	Jun 26, 6:35 PM	
+Jun 26	[I] Ecommerce	
+Verzia 1.3	call	00:30	Jun 26, 4:22 PM	Jun 26, 4:22 PM	
+Jun 26	[R] Avalon IT	
+[DEV] - iné úlohy	ecommerce unaccent dano	00:30	Jun 26, 3:21 PM	Jun 26, 3:21 PM	
+Jun 25	[I] Ecommerce	
+Integracia SPS SK	dokumenatacia sps, test, dokumentacia gopay, shipping v 1.2 a 1.3 pre zmenu flowu	03:00	Jun 26, 6:34 PM	Jun 26, 6:34 PM	
+Jun 25	[I] Ecommerce	
+Integracia GLS SK a CZ	dokumentacia {gls,sps,sds,packeta} * {1.1,1.2,1.3}, na cleand db pre screen	05:00	Jun 26, 6:30 PM	Jun 26, 6:32 PM	
+Jun 25	[R] KEMA SK	
+[FE] Kema eshop CR 23.6.	be uprava salesperson, dev main, test, deploy	01:00	Jun 25, 8:27 PM	Jun 25, 8:27 PM	
+Jun 24	[R] KEMA SK	
+[FE] Kema eshop CR 23.6.	implementation, deployment, test	05:00	Jun 24, 4:02 PM	Jun 24, 4:03 PM	
+Jun 24	[R] Avalon IT	
+[DEV] - DFŠ 1- evidencia recyklačného poplatku	visible curreny symbol on all places	00:20	Jun 24, 3:45 PM	Jun 24, 3:45 PM	
+Jun 24	Non-SLA Inlogic		implement, plus test update, deploy manual, module upgrade	00:45	Jun 24, 3:15 PM	Jun 24, 3:15 PM	
+Jun 24	[R] IOTEQ	
+[Dev] SolidWorks XLS import	deploy oca modul to sh, install	00:15	Jun 24, 3:11 PM	Jun 24, 3:11 PM	
+Jun 24	[R] Avalon IT	
+[DEV] - iné úlohy	call jakub avalon ioteq	00:30	Jun 24, 2:58 PM	Jun 24, 2:58 PM	
+Jun 24	[R] DODO Services	
+DoDo - DFS1 Checkbox Pravo k platbam	pay on wendor bill, implied ids	00:45	Jun 24, 2:08 PM	Jun 24, 2:08 PM	
+Jun 24	[R] DODO Services	
+DoDo - DFS1 Checkbox Pravo k platbam	change of access handling	01:00	Jun 24, 10:10 AM	Jun 24, 10:10 AM	
+Jun 23	[R] BAUSAD	
+Úpravy a podpora po kontrolnom dni (T&M)	setup of dev locally, search 4 task, rounnding and table change, and stuff + deploy on 24.6.	01:15	Jun 24, 9:24 AM	Jun 24, 9:24 AM	
+Jun 23	[I] Ecommerce	
+Analyza - integracia dopravcov GLS SK/CZ, SPS SK, DPD SK/CZ	estimates, email for test env	00:20	Jun 23, 3:46 PM	Jun 23, 3:46 PM	
+Jun 23	SLA Ultrafast Systems		call pluscheryy pick to prod	00:20	Jun 23, 2:44 PM	Jun 23, 2:44 PM	
+Jun 23	[I] Ecommerce	
+Analyza - integracia dopravcov GLS SK/CZ, SPS SK, DPD SK/CZ	followup mail	00:10	Jun 23, 2:01 PM	Jun 23, 2:01 PM	
+Jun 23	[R] Avalon IT	
+[DEV] - DFŠ 2 Prepojenie web formulárov	enhanced parsing on forms, not create partner	01:00	Jun 23, 11:43 AM	Jun 23, 11:43 AM	
+Jun 23	[R] Avalon IT	
+[DEV] - DFŠ 1- evidencia recyklačného poplatku	set fix currency on sewa, on sale order line to eur and other places	01:15	Jun 23, 11:42 AM	Jun 23, 11:42 AM	
+Jun 23	[R] DODO Services	
+DoDo - DFS1 Checkbox Pravo k platbam	sepa test, deploy	00:30	Jun 23, 11:41 AM	Jun 23, 11:41 AM	
+Jun 23	[R] Inowis	
+[DEV]-Úpravy Odoo Inowis Fáza 1	fintax module error fix	00:20	Jun 23, 9:36 AM	Jun 23, 9:36 AM	
+Jun 22	[R] Inowis	
+[DEV]-Úpravy Odoo Inowis Fáza 1	deploy fintax	00:20	Jun 23, 9:36 AM	Jun 23, 9:36 AM	
+Jun 22	SLA Ultrafast Systems		deploy and transaltions	00:15	Jun 23, 12:44 AM	Jun 23, 12:44 AM	
+Jun 19	[R] DODO Services	
+DoDo - DFS1 Checkbox Pravo k platbam	base module implemenation, test on create payments customer vendor	02:30	Jun 23, 11:41 AM	Jun 23, 11:41 AM	
+Jun 19	[R] Inowis	
+[DEV]-Úpravy Odoo Inowis Fáza 1	call	00:15	Jun 19, 3:34 PM	Jun 19, 3:34 PM	
+Jun 18	[I] Ecommerce	
+Integracia SPS SK	move to v19, cleanup module for v19, implement Fe 1.2, move to 1.3	03:00	Jun 19, 12:01 AM	Jun 19, 12:01 AM	
+Jun 18	SLA Ultrafast Systems		deployment cherry pick to production, fix on dev to instal new module	00:30	Jun 18, 11:52 PM	Jun 18, 11:52 PM	
+Jun 18	SLA Ultrafast Systems		cherrypick and deploy	00:15	Jun 18, 11:33 AM	Jun 18, 11:33 AM	
+Jun 18	[I] Ecommerce	
+Integracia GLS + FE	Fe widget to newest version based on my.gls, not old available on gls.sk, added to 1.3 also, test on avalon	02:00	Jun 18, 12:56 AM	Jun 18, 12:56 AM	
+Jun 17	[I] Ecommerce	
+Integracia GLS + FE	18 -> 19, chagnes, deployments, test, core module, avalon, end-end , changes for v19 odoo specific	03:30	Jun 18, 12:54 AM	Jun 18, 12:54 AM	
+Jun 17	[R] Avalon IT	
+[DEV] - DFŠ 2 Prepojenie web formulárov	call monday, setup and tests, deploy module changes to contact handling, v1	03:00	Jun 17, 12:10 PM	Jun 17, 12:10 PM	
+Jun 17	[R] Avalon IT	
+[DEV] - DFŠ 1- evidencia recyklačného poplatku	remove required on packaing, add pacakign breakdown to report	00:45	Jun 17, 12:10 PM	Jun 17, 12:10 PM	
+Jun 16	[I] Ecommerce	
+Integracia GLS + FE	move logic of additiona info to core module, centralize point id on res partner, remove old code from packeta	03:30	Jun 17, 5:20 PM	Jun 17, 5:20 PM	
+Jun 16	SLA Ultrafast Systems		add new search view, the description break, reconciliation view	01:45	Jun 16, 6:03 PM	Jun 16, 6:03 PM	
+Jun 16	[I] efinoo	
+Audit efinoo kódu a funkcionalít	estimates	01:45	Jun 16, 1:05 PM	Jun 16, 1:05 PM	
+Jun 16	SLA Ultrafast Systems		call	00:10	Jun 16, 9:36 AM	Jun 16, 9:36 AM	
+Jun 16	[I] efinoo	
+Audit efinoo kódu a funkcionalít	call	00:55	Jun 16, 8:55 AM	Jun 16, 8:55 AM	
+Jun 15	[I] Ecommerce	
+Integracia GLS + FE	print label integration with cancel, test local on pickup points	07:00	Jun 17, 5:14 PM	Jun 17, 5:14 PM	
+Jun 15	[I] efinoo	
+Audit efinoo kódu a funkcionalít	added notes on diagrams	00:30	Jun 15, 8:57 PM	Jun 15, 8:57 PM	
+Jun 15	[I] Ecommerce	
+Analyza - integracia dopravcov GLS SK/CZ, SPS SK, DPD SK/CZ	call	00:10	Jun 15, 12:00 PM	Jun 15, 12:00 PM	
+Jun 15	[R] Avalon IT	
+[DEV] - iné úlohy	deploy mng module	00:10	Jun 15, 9:43 AM	Jun 15, 9:43 AM	
+Jun 13	[I] Ecommerce	
+Integracia GLS + FE	base gls module cz/sk	07:00	Jun 17, 4:40 PM	Jun 17, 5:13 PM	
+Jun 13	[I] efinoo	
+Audit efinoo kódu a funkcionalít	fill the rest	00:30	Jun 13, 4:37 PM	Jun 13, 4:37 PM	
+Jun 12	[I] efinoo	
+Audit efinoo kódu a funkcionalít	checklist	01:00	Jun 12, 4:23 PM	Jun 12, 4:23 PM	
+Jun 12	[I] Ecommerce	
+Analyza - integracia dopravcov GLS SK/CZ, SPS SK, DPD SK/CZ	dpd sk	00:30	Jun 12, 4:23 PM	Jun 12, 4:23 PM	
+Jun 12	[R] Avalon IT	
+[DEV] - iné úlohy	call Jakub dfs	00:25	Jun 12, 10:19 AM	Jun 12, 10:19 AM	
+Jun 11	[I] Ecommerce	
+Analyza - integracia dopravcov GLS SK/CZ, SPS SK, DPD SK/CZ	dpd study na tri rozne api, email dpd sk	01:00	Jun 11, 6:06 PM	Jun 11, 6:06 PM	
+Jun 10	[I] Ecommerce	
+Integracia SPS SK	sps points, testing on v18, labels	05:00	Jun 18, 11:57 PM	Jun 18, 11:57 PM	
+Jun 10	[I] Ecommerce	
+Analyza - integracia dopravcov GLS SK/CZ, SPS SK, DPD SK/CZ	sps stuff	01:20	Jun 10, 11:47 PM	Jun 10, 11:47 PM	
+Jun 10	[R] Egne	
+Migrácia na v19 a MVP	pdf dic debug	00:20	Jun 10, 7:37 PM	Jun 10, 7:37 PM	
+Jun 10	SLA Ultrafast Systems		text search, column, text, test	01:30	Jun 10, 6:35 PM	Jun 10, 6:35 PM	
+Jun 10	[R] Egne	
+Migrácia na v19 a MVP	setup internal modules for egne 19, submodules, deployment	00:20	Jun 10, 4:57 PM	Jun 10, 4:57 PM	
+Jun 10	[R] KEMA SK	
+[Dev] Rozvoj ERP fáza 1	call + implementation of extention of module	01:30	Jun 10, 4:08 PM	Jun 10, 4:08 PM	
+Jun 9	[R] Avalon IT	
+[DEV] - DFŠ 2 Prepojenie web formulárov	avalon setup, module implementation basic structure, parser	03:00	Jun 12, 10:46 AM	Jun 12, 10:46 AM	
+Jun 9	[I] efinoo	
+Efinoo fix na sync currencies	Fix na migration-17, test, log to sensoneo dev, deploy, test, report	02:00	Jun 11, 2:53 PM	Jun 11, 2:53 PM	
+Jun 9	[I] Ecommerce	
+Analyza - integracia dopravcov GLS SK/CZ, SPS SK, DPD SK/CZ	gls odhad, + study dpd + email	01:40	Jun 10, 4:17 PM	Jun 10, 4:17 PM	
+Jun 9	[R] Egne	
+Migrácia na v19 a MVP	Call peto sensoneo, inlogic, egne	00:30	Jun 10, 3:59 PM	Jun 10, 4:08 PM	
+Jun 9	Non-SLA Inlogic		friday deploy issiue, + thusday deployment	00:40	Jun 10, 3:06 PM	Jun 10, 3:06 PM	
+Jun 8	[R] KEMA SK	
+Support po spusteni (prípadne CR)	Added newsletter subscription handling during Kema checkout order creation	01:10	Jun 10, 4:51 PM	Jun 10, 4:52 PM	
+Jun 7	[I] Ecommerce	
+Verzia 1.3	optional product support in the cart, including selection, quantity management, pricing, and cart display integration	04:35	Jun 10, 3:39 PM	Jun 10, 3:39 PM	
+Jun 7	[I] Ecommerce	
+Verzia 1.3	Made website indexing configurable through the SITE_INDEXABLE environment variable	00:15	Jun 10, 3:34 PM	Jun 10, 3:34 PM	
+Jun 7	SLA Ultrafast Systems		debug the unstransalted fields	00:30	Jun 10, 2:46 PM	Jun 10, 2:46 PM	
+Jun 6	[I] Ecommerce	
+Integracia GLS + FE	docs, + gls client, gls error	06:00	Jun 17, 10:20 PM	Jun 17, 10:20 PM	
+Jun 5	[R] Egne	
+Migrácia na v19 a MVP	egne deploy issiues	00:30	Jun 10, 3:58 PM	Jun 10, 3:58 PM	
+Jun 5	SLA Ultrafast Systems		Enhanced product search and display labels to include vendor product references and purchase/sales descriptions + new module	03:00	Jun 10, 3:20 PM	Jun 10, 3:20 PM	
+Jun 4	[I] efinoo	
+Efinoo fix na sync currencies	Autospritz -> local setup, code, investigation, report	01:00	Jun 11, 2:52 PM	Jun 11, 2:52 PM	
+Jun 4	Non-SLA Inlogic		Implemented Android Google login via ID token verification and mobile session creation for portal game players + local tests	03:20	Jun 10, 3:05 PM	Jun 10, 3:06 PM	
+Jun 4	SLA Ultrafast Systems		Updated Chinese translations and module configuration for sy_ultrafast_base.	01:00	Jun 10, 2:45 PM	Jun 10, 2:45 PM	
+Jun 4	SLA Ultrafast Systems		fix: manifest include stock_picking_operations.xml	00:20	Jun 10, 2:30 PM	Jun 10, 2:30 PM	
+Jun 3	[I] efinoo	
+Audit efinoo kódu a funkcionalít	audit cont.	03:50	Jun 10, 4:00 PM	Jun 10, 4:00 PM	
+Jun 2	[I] Ecommerce	
+Integracia SPS SK	sps base module	05:00	Jun 18, 11:57 PM	Jun 18, 11:57 PM	
+Jun 2	SLA Ultrafast Systems		Improved CMB transaction synchronization and reconciliation line selection logic.	01:30	Jun 10, 2:27 PM	Jun 10, 2:27 PM	
+Jun 2	[I] efinoo	
+Audit efinoo kódu a funkcionalít	call veronika modul error	00:15	Jun 2, 2:11 PM	Jun 2, 2:11 PM	
+Jun 2	[I] Ecommerce	
+Verzia 1.3	call Daniel	00:45	Jun 2, 11:10 AM	Jun 2, 11:10 AM	
+Jun 1	[I] Ecommerce	
+Integracia SPS SK	sps documentation + sps req	05:00	Jun 18, 11:55 PM	Jun 18, 11:57 PM	
+Jun 1	SLA Ultrafast Systems		CMB bank reconciliation sync improvements and partner assignment for imported transactions.	02:00	Jun 10, 2:23 PM	Jun 10, 2:23 PM	
+Jun 1	[I] Ecommerce	
+call peto vyriesenie deploy, deploj na dev ecom, fix view	00:20	Jun 1, 3:33 PM	Jun 1, 3:33 PM	
+May 31	[I] efinoo	
+Audit efinoo kódu a funkcionalít	file by file overview, notes	07:40	May 31, 9:06 PM	May 31, 9:06 PM	
+May 31	[I] Ecommerce	
+Verzia 1.3	incorporate comments	00:20	May 31, 2:37 PM	May 31, 2:37 PM	
+May 30	[I] Ecommerce	
+Dokumentacia	priprava dokumentacie pre verziu 1.1, s pridanim potrebnych uprav na v17 na ktore sa pocas pisania prislo, + local setup demo dev pre vytvorenie screenshotov, and other stuff	03:00	May 31, 2:33 PM	May 31, 2:38 PM	
+May 30	[I] efinoo	
+Audit efinoo kódu a funkcionalít	google drive docs	01:00	May 31, 9:46 AM	May 31, 9:46 AM	
+May 30	SLA Ultrafast Systems		manual lock, po lines	01:00	May 30, 10:48 AM	May 30, 10:48 AM	
+May 30	[I] Ecommerce	
+Verzia 1.3	optional products, price fix	02:00	May 30, 10:14 AM	May 30, 10:14 AM	
+May 30	SLA Ultrafast Systems		dev db backup, upload, stuff	00:20	May 30, 9:11 AM	May 30, 9:11 AM	
+May 29	SLA Ultrafast Systems		modification of downloaded email module, to thread persistance of participants	01:30	May 30, 9:12 AM	May 30, 9:12 AM	
+May 29	SLA Ultrafast Systems		call martin	00:20	May 29, 4:17 PM	May 29, 4:17 PM	
+May 29	SLA Ultrafast Systems		implement custom module, with override, and demo data to prevent prod testing	04:30	May 29, 3:38 PM	May 29, 3:38 PM	
+May 29	[I] Ecommerce	
+Verzia 1.3	call	00:10	May 29, 12:35 PM	May 29, 12:35 PM	
+May 29	SLA Ultrafast Systems		implementation v1	03:35	May 29, 12:23 PM	May 29, 12:23 PM	
+May 29	[I] efinoo	
+Audit efinoo kódu a funkcionalít	call +desc	00:15	May 29, 12:18 PM	May 29, 12:18 PM	
+May 29	[R] Inowis	
+[DEV]-Úpravy Odoo Inowis Fáza 1	call martin	00:10	May 29, 11:25 AM	May 29, 11:25 AM	
+May 29	[I] Ecommerce	
+Verzia 1.3	call daniel	00:30	May 29, 11:24 AM	May 29, 11:25 AM	
+May 28	SLA Ultrafast Systems		mo lock research	00:20	May 28, 4:50 PM	May 28, 4:50 PM	
+May 28	SLA Ultrafast Systems		Add English Name field to default search in Contacts.	00:20	May 28, 4:37 PM	May 28, 4:37 PM	
+May 28	SLA Ultrafast Systems		ledger reports, ovverrides corected joined name	01:10	May 28, 4:13 PM	May 28, 4:13 PM	
+May 28	SLA Ultrafast Systems		push to prod	00:05	May 28, 3:34 PM	Jun 1, 2:50 PM	
+May 28	[R] Avalon IT	
+[DEV] - iné úlohy	time estime	00:15	May 28, 3:33 PM	May 28, 3:33 PM	
+May 28	[R] Avalon IT	
+[DEV] - iné úlohy	call peto nacenenie	00:10	May 28, 3:12 PM	May 28, 3:12 PM	
+May 28	[I] Ecommerce	
+Verzia 1.3	pagination fixes, testing, attirbutes extention testing filters	01:30	May 28, 2:40 PM	May 28, 2:40 PM	
+May 28	[I] Ecommerce	
+Verzia 1.3	jakub call	00:10	May 28, 1:12 PM	May 28, 1:12 PM	
+May 28	[I] Ecommerce	
+Verzia 1.3	fix(category): preserve filter query params when updating pagination page state	00:30	May 28, 12:47 PM	May 28, 12:47 PM	
+May 28	[I] Ecommerce	
+Verzia 1.3	call daniel	00:10	May 28, 12:37 PM	May 28, 12:37 PM	
+May 28	[I] Ecommerce	
+Verzia 1.3	call, counter component, alza style filters, testing local	01:00	May 28, 12:20 PM	May 28, 12:20 PM	
+May 28	[I] Ecommerce	
+Verzia 1.3	test modal, setup 0 price product on avalon	00:10	May 28, 11:00 AM	May 28, 11:00 AM	
+May 28	SLA Ultrafast Systems		call martin	00:30	May 28, 10:53 AM	May 28, 10:53 AM	
+May 28	[I] Ecommerce	
+Verzia 1.3	setup fe changes, setup backend to test, errors	01:00	May 28, 9:59 AM	May 28, 9:59 AM	
+May 27	[I] Ecommerce	
+Verzia 1.3	active filtters functioanlity	01:15	May 27, 9:51 PM	May 27, 9:51 PM	
+May 27	[I] Ecommerce	
+Verzia 1.3	quote modal functioanlity + frotnend test with local setup with product of price 0	01:30	May 27, 9:32 PM	May 27, 9:32 PM	
+May 27	SLA Ultrafast Systems		setup all three on dev	00:25	May 27, 6:57 PM	May 27, 6:57 PM	
+May 27	SLA Ultrafast Systems		call change to another system, implemente en extention, search, views, comupte name	02:00	May 27, 6:34 PM	May 27, 6:34 PM	
+May 27	[I] Interny vyvoj	
+Migrácia modulov account_qr_code_frame_provider account_qr_code_pay_by_square_sk na 19EE	migration, resolve dependency on python, pillow, test on egne invoice sk	02:00	May 27, 1:44 PM	May 27, 1:47 PM	
+May 27	[R] Inowis	
+[DEV]-Úpravy Odoo Inowis Fáza 1	call	00:20	May 27, 10:27 AM	May 27, 10:27 AM	
+May 26	SLA Ultrafast Systems		debug translating, implementeding, dev,	02:00	May 27, 6:32 PM	May 27, 6:34 PM	
+May 26	[R] Egne	
+Migrácia na v19 a MVP	setup workflows from kema and fintax as templates, create docker, docker sompose, setup stack, setup github variables and secretets, setup portainer registry to do. deployment, create db	04:00	May 27, 1:54 PM	May 27, 1:56 PM	
+May 26	[R] IOTEQ	
+[Dev] Eplan XLS import	debug josef note, mo overview, recursion error, added guards, test, test local	02:00	May 26, 5:30 PM	May 26, 5:30 PM	
+May 25	[I] Ecommerce	
+Verzia 1.3	prepare pagination component, logic, integration on category	03:00	May 28, 10:20 AM	May 28, 10:20 AM	
+May 25	[R] Inowis	
+[DEV]-Úpravy Odoo Inowis Fáza 1	get courier, integration to delivery flow, test, deploy, test	02:00	May 26, 12:01 PM	May 26, 12:01 PM	
+May 25	[R] IOTEQ	
+[Dev] SolidWorks XLS import	debug josef task, fix, polish module, add test	02:00	May 26, 12:24 AM	May 26, 12:24 AM	
+May 22	[R] Avalon IT	
+[DEV] - DFŠ 1- evidencia recyklačného poplatku	vyhladavanie, prepocitanie podielu, analyza pripomienok	01:00	May 22, 10:02 PM	May 22, 10:02 PM	
+May 22	SLA Ultrafast Systems		Point nr. 4, deploy	00:30	May 22, 10:53 AM	Jun 1, 2:52 PM	
+May 22	[I] Ecommerce	
+Verzia 1.3	call Martin	00:15	May 22, 10:19 AM	May 22, 10:19 AM	
+May 22	[R] Inowis	
+[DEV]-Úpravy Odoo Inowis Fáza 1	packeta extend package type , call, implemetaion, deploy	00:30	May 22, 10:00 AM	May 22, 10:00 AM	
+May 21	[R] Egne	
+Migrácia na v19 a MVP	study v17 and v19 diff, implement, test manual, new branch dev19	04:00	May 24, 2:59 AM	May 24, 2:59 AM	
+May 21	[R] Inowis	
+[DEV]-Úpravy Odoo Inowis Fáza 1	call martin flow packeta, so, operation type etc	01:15	May 21, 5:56 PM	May 21, 5:56 PM	
+May 21	[I] efinoo	
+autodeploy	dev 18 and dev 19 autodeploy full	03:30	May 21, 4:39 PM	May 21, 6:07 PM	
+May 20	[R] KEMA SK	
+Support po spusteni (prípadne CR)	debug of missing so, logging grafana, portainer, backups, multiple days combined	01:00	May 20, 5:32 PM	May 20, 5:32 PM	
+May 20	[I] efinoo	
+autodeploy	call	00:15	May 20, 12:47 PM	May 20, 12:47 PM	
+May 19	[R] Avalon IT	
+[DEV] - DFŠ 1- evidencia recyklačného poplatku	call reflection implementation, sewa codes, weight, remove upload	01:00	May 19, 9:44 PM	May 19, 9:44 PM	
+May 19	[R] IOTEQ	
+[Dev] Obmedzenie shopfloor	call Jakub, db/odoo sh	00:45	May 19, 4:54 PM	May 19, 4:54 PM	
+May 19	SLA Ultrafast Systems		add discussion subtype to show header	00:15	May 19, 12:05 AM	May 19, 12:05 AM	
+May 18	[R] Avalon IT	
+[DEV] - DFŠ 1- evidencia recyklačného poplatku	calculations, sale orders/invoices, reports	06:00	May 19, 2:38 PM	May 19, 2:38 PM	
+May 18	SLA Ultrafast Systems		implementation, test ,deploy	00:50	May 18, 12:21 PM	May 18, 12:21 PM	
+May 18	SLA Ultrafast Systems		debug type on emails	00:10	May 18, 11:17 AM	May 18, 11:17 AM	
+May 18	SLA Ultrafast Systems		deploy changes to prod, cherrypick, resolve sql error	00:20	May 18, 10:48 AM	May 18, 10:48 AM	
+May 18	[I] Interny vyvoj	
+Migrácia symetra Odoo na 19 EE	module upgrade	00:10	May 18, 9:41 AM	May 18, 9:41 AM	
+May 16	[R] Avalon IT	
+[DEV] - DFŠ 1- evidencia recyklačného poplatku	sewa categories, sewa groups, import excel file, product sewa implementation	08:00	May 18, 11:47 PM	May 18, 11:47 PM	
+May 15	[R] Avalon IT	
+[DEV] DFŠ 4 - Generovanie draftov faktúr z aplikácie Predplatné	see how subsciption plan works, see how inv are beign generated, run aviation dev locally, implement , creaqte new module sy_aviation_base	02:15	May 17, 9:23 PM	May 17, 9:23 PM	
+May 13	SLA Ultrafast Systems		Checking differences between production and development	00:10	May 17, 9:20 PM	May 17, 9:20 PM	
+May 13	SLA Ultrafast Systems		Disabled automatic MO confirmation during procurement creation and deployed it to DEV for testing	00:30	May 17, 9:17 PM	May 17, 9:17 PM	
+May 13	SLA Ultrafast Systems		Fixed MO project re-sync to pickings when component or finished stock moves change, and deployed it to DEV for testing.	00:30	May 17, 9:16 PM	May 17, 9:16 PM	
+May 13	SLA Ultrafast Systems		Investigated, fixed, and deployed multilingual email notification header issue caused by translated mail subtype detection. + Martin call	00:45	May 17, 9:12 PM	May 17, 9:13 PM	
+May 12	SLA Ultrafast Systems		point 1-2 research, implement, manual test, deploy	01:00	May 12, 11:24 PM	May 12, 11:24 PM	
+May 12	SLA Ultrafast Systems		3th point findings ,research	00:15	May 12, 11:03 PM	Jun 1, 2:53 PM	
+May 12	SLA Ultrafast Systems		make product template name non-translatable for consistent search, fix dev product translation so deployment is possible	00:40	May 12, 10:36 PM	May 12, 10:36 PM	
+May 12	SLA Ultrafast Systems		restore prod and dev db locally,widen product template search to purchase description and vendor product names	01:00	May 12, 9:57 PM	May 12, 9:57 PM	
+May 12	Non-SLA Autospritz		cherry pick, deploy, upgrade module prod	00:10	May 12, 8:25 PM	May 12, 8:25 PM	
+May 12	Non-SLA Autospritz		Call Martin, modify base_invoice, deploy and test, extend dev db.	01:00	May 12, 4:56 PM	May 12, 4:56 PM	
+May 12	[R] Avalon IT	
+[DEV] - iné úlohy	setup fintax for avalon dev, fix deploy bug	00:25	May 12, 3:41 PM	May 12, 3:41 PM	
+May 12	[I] Ecommerce	
+Úprava Packeta modulu vzhľadom na maxinálnu hodnotu a rozmery zásielky	presentation	00:40	May 12, 10:02 AM	May 12, 10:02 AM	
+May 12	[I] Ecommerce	
+Verzia 1.3	call status martin whats next	00:20	May 12, 10:01 AM	May 12, 10:02 AM	
+May 12	[I] Ecommerce	
+Verzia 1.3	crm modal comment cleanup	00:15	May 12, 1:56 AM	May 12, 1:56 AM	
+May 12	[R] Inowis	
+[DEV]-Úpravy Odoo Inowis Fáza 1	deploy labels logging	00:15	May 12, 1:34 AM	May 12, 1:34 AM	
+May 12	SLA Ultrafast Systems		deploy to prod, cherrypick, studio view remove	00:20	May 12, 1:27 AM	May 12, 1:27 AM	
+May 6	[I] Ecommerce	
+Verzia 1.3	migrate modal from another project to ecommerce-fe	01:00	May 27, 9:29 PM	May 27, 9:29 PM	
+May 6	[I] Ecommerce	
+Verzia 1.3	pickup widget enhacement, changes to backend endpoint, test	01:35	May 27, 9:27 PM	May 27, 9:28 PM	
+May 4	[R] BAUSAD	
+Bausad DFS10	pdfs downpamet inmvoice change	00:30	May 4, 8:55 PM	May 4, 8:55 PM	
+May 4	[I] Ecommerce	
+Verzia 1.3	call	00:15	May 4, 2:19 PM	May 4, 2:19 PM	
+May 4	[R] LIANA GOLIAŠ	
+Zanalyzovať API prepojenia na dopravcov kt. nemáme riešených (Raben, GLS, Vedos)	time estimate	00:15	May 4, 2:18 PM	May 4, 2:18 PM	
+Apr 30	[I] Ecommerce	
+Verzia 1.3	cart refactor, migracia na ts.	03:00	May 1, 3:13 AM	May 1, 3:13 AM	
+Apr 30	[R] Aviation group	
+[DEV] - eCommerce Aviation Group	restore issiues, calls peto, restore db	01:00	Apr 30, 1:44 PM	Apr 30, 1:44 PM	
+Apr 29	[R] Aviation group	
+[DEV] - eCommerce Aviation Group	db restores, po/ut.st, calls peto , resolve	02:00	Apr 29, 5:32 PM	Apr 29, 5:32 PM	
+Apr 29	[I] Interny vyvoj	
+Migrácia sy-odoo-modules na v19	documents ioteq error	01:30	Apr 29, 5:01 PM	Apr 29, 5:01 PM	
+Apr 28	[I] Ecommerce	
+Úprava Packeta modulu vzhľadom na maxinálnu hodnotu a rozmery zásielky	Implementovaný autoprint labelov pri creation cez Delivery API Trigger Mode a úprava správania Operation Types	06:00	May 1, 3:09 AM	May 1, 3:10 AM	
+Apr 28	[R] IOTEQ	
+[Dev] Eplan XLS import	update eplan parser to version dfs1.3, deploy	01:30	Apr 29, 12:23 AM	Apr 29, 12:23 AM	
+Apr 28	[R] LIANA GOLIAŠ	
+Zanalyzovať API prepojenia na dopravcov kt. nemáme riešených (Raben, GLS, Vedos)	VEDOS handling	00:15	Apr 28, 4:54 PM	Apr 28, 4:54 PM	
+Apr 28	[R] LIANA GOLIAŠ	
+Zanalyzovať API prepojenia na dopravcov kt. nemáme riešených (Raben, GLS, Vedos)	gls api documentation, kontoo na integraciu, komunikacia vedos raben, prehlad	01:30	Apr 28, 10:55 AM	Apr 28, 10:55 AM	
+Apr 27	[I] Ecommerce	
+Úprava Packeta modulu vzhľadom na maxinálnu hodnotu a rozmery zásielky	Rozšírený Packeta modul o limity (insurance, offer) a podporu kuriérov vrátane konfigurácie home delivery carriers.	07:00	May 1, 3:06 AM	May 1, 3:07 AM	
+Apr 24	Non-SLA Autospritz		pdf, translation, test , dep	00:45	May 1, 10:43 PM	May 1, 10:44 PM	
+Apr 24	[I] Ecommerce	
+Úprava Packeta modulu vzhľadom na maxinálnu hodnotu a rozmery zásielky	Upravené rozdiely medzi verziami: presun polí v Odoo 17 a odstránenie duplicitnej váhy,odstranenie stare fieldy, prosposobenie max weight politky, verzie 18 19	07:00	May 1, 3:05 AM	May 1, 3:06 AM	
+Apr 24	[I] Ecommerce	
+install sy_ecomerce na avalon	00:15	Apr 24, 4:31 PM	Apr 24, 4:31 PM	
+Apr 23	[I] Ecommerce	
+Úprava Packeta modulu vzhľadom na maxinálnu hodnotu a rozmery zásielky	Implementované delivery limity a validace (váha, rozmery) a zjednotenie pod Availability	07:00	May 1, 3:02 AM	May 1, 3:05 AM	
+Apr 22	[I] Ecommerce	
+Úprava Packeta modulu vzhľadom na maxinálnu hodnotu a rozmery zásielky	definica zmien pre v18 1.2, definicia rozmerovych obmedzeni, cenovych obmedzeni	04:00	May 1, 2:57 AM	May 1, 3:00 AM	
+Apr 22	[I] Ecommerce	
+Dopravca Packeta	call	00:35	Apr 22, 10:32 AM	Apr 22, 10:32 AM	
+Apr 21	[R] Egne	
+Analyzovať náročnosť migrácie kódu na 19EE	analysis, modules search and scan, changes v17->v18->v19	01:45	Apr 21, 3:49 PM	Apr 21, 3:49 PM	
+Apr 20	[I] Dev	
+[Dev] Vzdelavanie	analyza kodu pre Jozef Petluš Ahoj, mám takéto pole. A nech ho prepínam či nie, nič nerobí. Môžeš sa prosím pozrieť, či odhalíš v kóde čo robí, alebo za akých podmienok? Mojim cieľom je aby robilo to čo píšu v helperi "When disabled..."	00:45	May 1, 2:53 AM	May 1, 2:53 AM	
+Apr 20	[I] efinoo	
+autodeploy	dev 18 a 19 buildy	01:00	Apr 20, 3:02 PM	Apr 20, 3:02 PM	
+Apr 20	[I] Ecommerce	
+Verzia 1.3	analyza upgrade-u	00:45	Apr 20, 2:04 PM	Apr 20, 2:04 PM	
+Apr 20	[I] Ecommerce	
+Verzia 1.3	find and modify mobile dependency, not needed	00:15	Apr 20, 12:35 PM	Apr 20, 12:35 PM	
+Apr 20	SLA Ultrafast Systems		expected revenue recalc, refactor to remove dependency of crm pipline module	01:00	Apr 20, 12:02 PM	Apr 20, 12:02 PM	
+Apr 20	SLA Ultrafast Systems		call	00:30	Apr 20, 9:19 AM	Apr 20, 9:19 AM	
+Apr 16	[I] Ecommerce	
+Dopravca Packeta	Autosprits support, changes to mobile validation	01:25	Apr 23, 1:32 PM	Apr 23, 1:32 PM	
+Apr 14	[R] IOTEQ	
+[Dev] Obmedzenie shopfloor	dfs 3 implemeenation module, setup, tests	05:00	Apr 29, 12:03 AM	Apr 29, 12:03 AM	
+Apr 14	SLA Ultrafast Systems		refactor(sale): replace expected shipping date with commitment_date and migrate legacy data	01:00	Apr 14, 1:04 PM	Apr 14, 1:04 PM	
+Apr 14	[R] Avalon IT	
+Vytvoriť DEV/PROD prostredie	add fintax, deploy	00:10	Apr 14, 11:59 AM	Apr 14, 11:59 AM	
+Apr 13	[R] IOTEQ	
+[Dev] Eplan XLS import	Create automated tests to validate EPLAN BOM import, product creation, and re-import behavior.	04:00	Apr 29, 12:22 AM	Apr 29, 12:22 AM	
+Apr 13	[R] IOTEQ	
+[Dev] SolidWorks XLS import	Create automated tests to validate SolidWorks BOM import, product creation, and re-import behavior	05:00	Apr 29, 12:08 AM	Apr 29, 12:09 AM	
+Apr 13	[R] Avalon IT	
+Vytvoriť DEV/PROD prostredie	autodeploy	01:30	Apr 13, 12:40 PM	Apr 13, 12:40 PM	
+Apr 13	[R] Avalon IT	
+Vytvoriť DEV/PROD prostredie	call	00:20	Apr 13, 11:17 AM	Apr 13, 11:17 AM	
+Apr 12	[R] IOTEQ	
+[Dev] SolidWorks XLS import	diff reimport on the same source, chatter changes	01:00	May 1, 3:17 AM	May 1, 3:17 AM	
+Apr 11	[R] IOTEQ	
+[Dev] Eplan XLS import	Add re-import synchronization and chatter logging with attachments for EPLAN BOM updates.	04:00	Apr 29, 12:20 AM	Apr 29, 12:20 AM	
+Apr 11	[R] IOTEQ	
+[Dev] SolidWorks XLS import	Add re-import synchronization and chatter logging with attachments for SolidWorks BOM updates.	04:00	Apr 29, 12:08 AM	Apr 29, 12:08 AM	
+Apr 10	[R] IOTEQ	
+[Dev] Eplan XLS import	mplement a wizard to import EPLAN BOM Excel files into manufacturing orders with automatic product creation.	04:00	Apr 29, 12:14 AM	Apr 29, 12:19 AM	
+Apr 10	[R] IOTEQ	
+[Dev] SolidWorks XLS import	Implement a wizard to import SolidWorks BOM Excel files into manufacturing orders with automatic product creation	05:00	Apr 29, 12:08 AM	Apr 29, 12:08 AM	
+Apr 10	[R] Inowis	
+[DEV]-Úpravy Odoo Inowis Fáza 1	call	00:40	Apr 10, 12:27 PM	Apr 10, 12:27 PM	
+Apr 9	[R] IOTEQ	
+[Dev] Eplan XLS import	base parser for eplan	03:00	Apr 29, 12:13 AM	Apr 29, 12:14 AM	
+Apr 8	Non-SLA Inlogic		fix of the favorite issiue ( user permision sudo) + local node setup of frontend	01:40	Apr 8, 2:51 PM	Apr 8, 2:51 PM	
+Apr 8	[R] Aviation group	
+[DEV] - eCommerce Aviation Group	fix db restore issues	01:35	Apr 8, 2:49 PM	Apr 8, 2:49 PM	
+Apr 8	[I] Ecommerce	
+Analyza Odoo.sh - otestovat obmedzenie requestov	call	00:40	Apr 8, 2:48 PM	Apr 8, 2:48 PM	
+Apr 7	[R] IOTEQ	
+[Dev] SolidWorks XLS import	study file, create base parser	04:20	Apr 13, 10:38 AM	Apr 13, 10:38 AM	
+Apr 7	[I] Ecommerce	
+Verzia 1.3	show first Vuelidate error per field on password reset and contact	00:30	Apr 8, 3:06 PM	Apr 8, 3:06 PM	
+Apr 7	[I] Ecommerce	
+Verzia 1.3	highlight my-account sidebar link only on exact route match	00:20	Apr 8, 3:06 PM	Apr 8, 3:06 PM	
+Apr 7	[I] Interny vyvoj	
+Migrácia sy-odoo-modules na v19	fix sy_base_partner, test , deploy verify	00:45	Apr 8, 2:59 PM	Apr 8, 2:59 PM	
+Apr 3	[I] Ecommerce	
+Verzia 1.3	send plain passwords from the client and drop the md5 dependency	00:45	Apr 8, 3:01 PM	Apr 8, 3:01 PM	
+Apr 3	[I] Ecommerce	
+Verzia 1.3	debug lang on odoo chat live	00:45	Apr 3, 2:24 PM	Apr 3, 2:24 PM	
+Apr 2	[I] Ecommerce	
+Verzia 1.3	call Martin what next	00:20	Apr 3, 2:36 PM	Apr 3, 2:36 PM	
+Apr 2	[I] Interny vyvoj	
+Migrácia sy-odoo-modules na v19	migrate selected modules, v19 study, branches, manual testing and local setup	04:15	Apr 2, 9:34 PM	Apr 2, 9:34 PM	
+Apr 1	[I] Ecommerce	
+Analyza Odoo.sh - otestovat obmedzenie requestov	test via loctus performance	01:30	Apr 8, 2:50 PM	Apr 8, 2:50 PM	
+Apr 1	Non-SLA Inlogic		inlogic call peto + deployment call	00:45	Apr 3, 2:32 PM	Apr 3, 2:32 PM	
+Apr 1	[I] efinoo	
+autodeploy	call autodeploy - odoo sh repos briefing	00:25	Apr 3, 2:30 PM	Apr 3, 2:30 PM	
+Apr 1	[I] Ecommerce	
+Analyza FE	Call Martin Inlogic/ ecomm whats next	00:40	Apr 1, 2:24 PM	Apr 1, 2:24 PM	
+340:00	

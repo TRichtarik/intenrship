@@ -1,0 +1,135 @@
+Návrh odborné praxe / Internship Proposal
+
+Student
+
+Jméno / Name:                          Tomáš Richtárik
+
+UČO:                                              514392
+
+Studijní program / Study programme:     Řízení softwarových systémů a služeb /
+
+                                                                            Software Systems and
+Services Management
+
+
+Organizace / Company
+
+Název / Name:                           symetra s. r. o.
+
+IČO / Company ID:                    54254949
+
+Se sídlem / Registr. address:    29. augusta 891/7, 960 01 Zvolen, Slovensko
+
+
+Termín / Dates
+
+Navrhovaná praxe by probíhala / The proposed traineeship would run between dates:
+
+Od / From: 30.3.2026 Do / Until: 30.9.2026
+
+v minimálním rozsahu 400 hodin. / in the minimum extent of 400 hours.
+
+
+Právní forma praxe – vyznačte smlouvu, kterou budete mít s organizací / Legal form of the
+traineeship – please identify the type of agreement you will have with the organisation:
+
+☐ DPP / Contract of Service                                                ☐ DPČ / Work Performance
+Agreement
+
+☒ Dohoda o stáži / Internship Agreement                    ☐ HPP / Full Time Employment Contract
+
+
+Navrhovaná pracovní náplň stáže / Proposed job description
+
+Co nejdetailněji popište: / Describe in as much detail as possible:
+
+Organizace práce, struktura a velikost týmu / Work organization, team structure and size:
+
+
+Stáž by prebiehala v spoločnosti Symetra s.r.o., ktorá sa zameriava na vývoj a implementáciu
+softvérových riešení pre podnikové prostredie. Na projektoch pracuje tím pozostávajúci približne z
+14 členov, ktorý zahŕňa najmä  developerov, business consultantov, projektového manažéra, ako aj
+členov obchodného oddelenia a ďalších spolupracovníkov podieľajúcich sa na návrhu a realizácii
+riešení. V rámci stáže by som pôsobil v hybridnej role na pomedzí developera a projektového
+manažmentu. Moja činnosť by zahŕňala najmä podporu koordinácie úloh v rámci projektov, základnú
+analýzu požiadaviek, komunikáciu medzi technickým tímom a projektovým manažmentom a oboznámenie sa
+s procesom vývoja softvérových riešení. Súčasťou práce by bola aj spolupráca s jednotlivými členmi
+tímu pri riešení technických a organizačných úloh. Tím by pravidelne komunikoval prostredníctvom
+online stretnutí, najmä denných krátkych meetingov zameraných na koordináciu práce a riešenie
+aktuálnych úloh. Podľa potreby by prebiehali aj konzultácie s jednotlivými členmi tímu. Odborným
+garantom stáže by bol Peter Krššák (CTO), ktorý by zabezpečoval odborné vedenie a dohľad nad
+technickou stránkou projektov. Konzultácie a koordináciu projektových aktivít by poskytoval Peter
+Kajúch (Project Manager). Stáž by bola realizovaná formou práce na diaľku.
+
+
+Projekty, na kterých pracujete či budete pracovat / Projects you are or will be working on:
+
+
+Počas stáže by som sa zapájal do projektov zameraných na implementáciu a prispôsobenie ERP systému
+Odoo pre rôznych klientov spoločnosti. Symetra s.r.o. sa venuje implementácii podnikových
+informačných systémov, pričom cieľom projektov je prispôsobiť systém Odoo procesom konkrétnych
+organizácií alebo navrhnúť optimalizáciu existujúcich procesov tak, aby bolo možné systém efektívne
+využívať. Projekty môžu zahŕňať implementáciu jednotlivých modulov systému, integráciu s externými
+systémami prostredníctvom API, ako aj prepojenie s webovými aplikáciami alebo e-commerce
+riešeniami. V rámci stáže by som sa podieľal najmä na aktivitách súvisiacich s koordináciou
+projektov a podporou projektového manažmentu. Súčasťou práce by bolo oboznamovanie sa s procesmi
+zákazníkov, analýza ich požiadaviek a spolupráca pri návrhu spôsobu implementácie riešenia v
+systéme Odoo. Dôležitou súčasťou by bola aj komunikácia medzi projektovým manažmentom, business
+consultantmi a vývojovým tímom, aby boli požiadavky zákazníka správne pochopené a následne
+realizované v technickom riešení.  Okrem toho by som sa podieľal na základných aktivitách spojených
+s odhadom náročnosti práce, prípravou návrhu riešenia, orientačným nacenením jednotlivých častí
+projektu a podporou projektového plánovania. Popri organizačných a analytických aktivitách by som
+sa oboznamoval aj s technickou stránkou projektov, napríklad so základnými úpravami používateľského
+rozhrania, testovaním implementovaných funkcionalít a kontrolou správnosti implementovaných
+riešení.
+
+
+Technologie a nástroje / Technology and tools:
+
+Technologické prostredie projektov je založené predovšetkým na systéme Odoo, ktorý slúži ako hlavná
+platforma pre implementáciu podnikových informačných systémov a ERP riešení. Odoo umožňuje
+prispôsobovanie jednotlivých modulov podľa potrieb zákazníka, integráciu s externými systémami a
+rozširovanie funkcionality prostredníctvom vlastného vývoja. Pri vývoji a úpravách systému sa
+využívajú najmä programovacie jazyky Python  a JavaScript . Tieto technológie sa používajú pri
+implementácii nových funkcionalít, úpravách existujúcich modulov a pri integráciách s ďalšími
+systémami. Na plánovanie a koordináciu projektových aktivít sa využíva nástroj Gantt View Pro pre
+Odoo, ktorý umožňuje vizuálne plánovanie úloh, sledovanie časového harmonogramu projektov a
+koordináciu práce medzi členmi tímu. Na každodennú komunikáciu v tíme sa využívajú online
+komunikačné nástroje, najmä Google Chat, ktoré slúžia na operatívnu koordináciu práce a riešenie
+priebežných úloh.
+
+
+Náplň práce na jednotlivých projektech a nástrojích / Workload for individual projects and tools:
+
+
+Približne 50 % pracovného času by bolo venovaných aktivitám súvisiacim s projektovým manažmentom a
+koordináciou práce tímu. Táto časť by zahŕňala podporu plánovania projektových úloh, sledovanie
+priebehu realizácie jednotlivých úloh, koordináciu menších aktivít medzi developermi a business
+consultantmi a komunikáciu o stave projektu. Súčasťou by bola aj práca s nástrojmi na plánovanie
+projektov, napríklad Gantt View Pro v prostredí Odoo. Približne 30 % pracovného času by bolo
+zameraných na analýzu procesov zákazníkov a návrh riešení. To by zahŕňalo oboznamovanie sa s
+procesmi v organizáciách klientov, identifikáciu požiadaviek na úpravy alebo implementáciu modulov
+systému Odoo a spoluprácu pri návrhu spôsobu implementácie riešenia v ERP systéme. Súčasťou tejto
+časti by bolo aj pochopenie služieb poskytovaných firmou a základné zapojenie sa do prípravy
+návrhov riešení pre zákazníkov. Približne 10 % pracovného času by bolo venovaných testovaniu
+implementovaných funkcionalít a kontrole správnosti riešení. To by zahŕňalo overovanie funkčnosti
+implementovaných úprav v systéme Odoo, kontrolu správneho fungovania jednotlivých modulov a podporu
+pri identifikácii a riešení prípadných chýb. Zvyšných 10 % pracovného času by bolo zameraných na
+technické aktivity súvisiace s vývojom a konfiguráciou systému, najmä základné úpravy
+používateľského rozhrania a implementáciu menších zmien v prostredí Odoo s využitím technológií ako
+Python a JavaScript. Táto časť by slúžila najmä na lepšie pochopenie technickej stránky
+implementácie ERP systémov a spoluprácu s vývojovým tímom.
+
+
+Prohlašuji, že jsem se seznámil s osnovami předmětu a vzal na vědomí požadavky na předmět v daném
+období, a to zejména na jeho rozsah, náplň a požadavky na osobu garanta organizace.
+
+I declare I am acquainted with the course syllabus and I take into consideration the course
+requirements in the given time, primarily the extent, content and requirements for the organisation
+guarantor.
+
+                                                                     V / In Brno Dne / On 16.3.2026
+
+                                                                           ………………………………..…………………………
+
+                                                    Podpis studenta/studentky / Student’s signature
